@@ -34,13 +34,13 @@ const Navbar = () => {
           onClick={() =>
             setGithub(
               (window.location.href =
-                "https://github.com/orgs/clarusway/dashboard")
+                "https://github.com/Oguzhan-Ucar")
             )
           }
           to={github}
           target="_blank"
         >
-          Githubb
+          Github
         </MenuLink>
         {/* React-router, Tek Sayfalık Uygulama için bir yönlendirme sistemidir. Tüm
         rotaların sayfanızda tanımlanması ve uygulamanızın içinde kapsüllenmesi
