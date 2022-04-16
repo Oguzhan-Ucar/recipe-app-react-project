@@ -1,1 +1,5 @@
-This project is located at this address https://oguzhan-recipe-app-react-project.netlify.app/
+# Recipe App
+
+React practise
+
+This project deployed with netlify >>> https://oguzhan-recipe-app-react-project.netlify.app/
