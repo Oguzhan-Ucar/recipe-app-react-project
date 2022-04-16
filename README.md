@@ -2,4 +2,4 @@
 
 React practise
 
-This project deployed with netlify >>> https://oguzhan-recipe-app-react-project.netlify.app/
+This project deployed with Netlify >>> https://oguzhan-recipe-app-react-project.netlify.app/
