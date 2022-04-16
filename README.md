@@ -47,4 +47,3 @@ SOLUTION
 ## Expected Outcome
 
 ![Project 007 Snapshot](food-search-app.gif)
-
