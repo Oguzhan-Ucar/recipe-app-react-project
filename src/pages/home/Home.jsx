@@ -8,8 +8,8 @@ import homeSvg from '../../assets/home.svg'
 import RecipeCardComp from "./RecipeCardComp"
 
 
-const APP_ID = "4ebc3b2a"; 
-const APP_KEY = "741f07fb14ea4cea88d2f8566241d38d";
+const APP_ID = "c89986f5"; 
+const APP_KEY = "c880cb8431accb4070b0676bd3d3a635";
 /****buraya kendi id ve key imizi yaziyoruz**********/
 //const APP_ID = "bfbb3efc"; //bfbb3efc;const APP_KEY = "43faeee790f26cd82b28050d3031619d";// 43faeee790f26cd82b28050d3031619d
 
