@@ -28,7 +28,7 @@ const Login = () => {
     <LoginContainer>
       <FormContainer>
         <StyledImg src={mealSvg} />
-        <Header>{"<Clarusway/>"}Recipe</Header>
+        <Header>{"<Oguzhan/>"}Recipe</Header>
         {/* login sayfasındaki yuvarlak olayın içindeki yazı (Header) */}
 
         <StyledForm onSubmit={handleSubmit}>
