@@ -4,4 +4,4 @@ Goal of this project is to make an application that shows recipe recommendations
 
 This project deployed with netlify >>> https://oguzhan-recipe-app-react-project.netlify.app
 
-<img src="images/recipe-app.gif">
+<img src="recipe-app.gif">
